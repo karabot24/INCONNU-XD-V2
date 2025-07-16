@@ -15,16 +15,11 @@ Click the button below to fork the repository and get your own copy:
 
 [![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/INCONNU-BOY/INCONNU-XD-V2/fork)
 
----
-
-## ⚙️ PORTAL
-
-[![PORTAL QR OR PAIR ](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://inconnu-boy-tech-web-aq65.vercel.app/)
 
 ---
-## ⚙️ PAIR CODE
+## ⚙️ GET YOUR SESSION
 
-[![PAIR CODE](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://inconnu-boy-tech-web.onrender.com/pair)
+[![PAIR CODE](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://inconnu-boy-tech-web.onrender.com)
 
 ---
 ## ⌛ WHATSAPP CHANNEL SUPPORT 
